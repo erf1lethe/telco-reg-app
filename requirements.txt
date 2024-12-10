@@ -1,5 +1,4 @@
-boto3
-Flask
-python-dotenv
-opencv-python
+pandas
+streamlit
 numpy
+scikit-learn
